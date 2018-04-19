@@ -1,0 +1,11 @@
+#navBar-section #navBarHeading{
+    color: greenyellow;
+    padding: 10px;
+    font-size: 20px;
+}
+#navBar-section .navbar {
+    border-radius: 0px;
+}
+#navBar-section .navbar .container-fluid .nav .active {
+    color: sandybrown;
+}

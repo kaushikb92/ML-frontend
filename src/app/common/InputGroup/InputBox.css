@@ -1,0 +1,7 @@
+.hasError {
+    border: 1px solid darkred;
+}
+.errorMsg {
+    color: darkred;
+    font-size: 10px;
+}

@@ -1,0 +1,11 @@
+#form-div {
+    border: 1px solid #bcbcbc;
+    margin-top: 20px; 
+    margin-bottom: 20px; 
+}
+#remarks-input {
+    height: 10px;
+}
+.radioInput {
+    height:18px;
+}

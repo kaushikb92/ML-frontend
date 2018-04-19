@@ -1,0 +1,18 @@
+.myRequests-section .myRequests-box-style{
+    background-color: white;
+    border: 1px solid #bcbcbc;
+    border-radius: 15px;
+    box-shadow: 2px 2px 10px;
+    margin-top: 145px;
+    padding: 10px
+}
+.myRequests-section .myRequests-header{
+    text-decoration: underline;
+}
+
+.myRequests-section output {
+    display: inline-block;
+    position: absolute;
+    padding: 1px 0px 0px 5px;
+    font-size: 15px;
+}

@@ -1,0 +1,16 @@
+
+.RequestMoneyModal-section .modal-dialog .modal-content .modal-header.modal-heading{
+  background-color: #333;
+  color: greenyellow;
+}
+#RequestMoneyModal{
+    opacity: 1;
+    display: block;
+    border-radius: 5px;
+}
+.RequestMoneyModal-section .modal .modal-dialog.modal-style {
+    margin-top: 150px;
+}
+.RequestMoneyModal-section .modal .modal-dialog .modal-content .modal-footer .btn.modal-btn {
+    outline: none;
+}

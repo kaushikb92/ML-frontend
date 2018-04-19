@@ -1,0 +1,27 @@
+.login-section #login-form {
+    border: 2px solid lightslategray;
+    padding: 15px;
+}
+.login-section .loginBox {
+    margin-top: 50px;
+}
+.login-section form span,input{
+    font-size: 18px;
+}
+.login-section form input {
+    outline: none;
+    border: none;
+    border-bottom: 1px dotted lightblue;
+}
+.login-section form input:focus {
+    border-bottom: 1px solid lightblue;
+}
+.login-section form .grid {
+    grid-gap: 10px;
+    display: grid;
+    grid-template-columns: 5% 95%;
+}
+.login-section form button{
+    border-radius: 50%;
+    outline: none !important;
+}
